@@ -14,7 +14,7 @@ the date and press search.  This function was coded in the index.html page insid
 
 
 
-![]([(https://github.com/crashdean/UFOs/blob/main/static/images/Fiter_fields.png)
+![](https://github.com/crashdean/UFOs/blob/main/static/images/Fiter_fields.png)
   
   
   
