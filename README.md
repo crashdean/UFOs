@@ -20,9 +20,14 @@ of list item tags.   The functions for these fields were created in the app.js f
 
 
 
+### Table Create
+![](https://github.com/crashdean/UFOs/blob/main/static/images/Table_create.png)
+
+
+
+
 ### Update Filters
 ![](https://github.com/crashdean/UFOs/blob/main/static/images/Filter_update.png)
-
 
 
 
