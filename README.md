@@ -22,14 +22,14 @@ of list item tags.   The functions for these fields were created in the app.js f
 
 
 
-### app.js
+### Update Filters
 ![](https://github.com/crashdean/UFOs/blob/main/static/images/Filter_update.png)
 
 
 
 
-### app.js
-![](https://github.com/crashdean/UFOs/blob/main/static/images/Fiter_fields.png)  
+### Filter Table Data
+![](https://github.com/crashdean/UFOs/blob/main/static/images/filter_table.png)  
   
   
 
