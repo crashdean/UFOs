@@ -16,8 +16,20 @@ of this project created four additional filters,  These were city, state, countr
 
 
 
+
+### Index.html
 ![](https://github.com/crashdean/UFOs/blob/main/static/images/Fiter_fields.png)
-  
+
+
+
+### app.js
+![](https://github.com/crashdean/UFOs/blob/main/static/images/Fiter_fields.png)
+
+
+
+
+### app.js
+![](https://github.com/crashdean/UFOs/blob/main/static/images/Fiter_fields.png)  
   
   
 
