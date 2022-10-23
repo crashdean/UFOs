@@ -9,12 +9,10 @@ The challnge of this project was to create further javascript functionality with
 
 ##  Results
 
-The initial website only had date as the filter for searching the sightings.  The previewed date formate was displayed for the user to type
-the date and press search.  This function was coded in the index.html page inside a div container using Bootstrap as a css style.  The challenge 
-of this project created four additional filters,  These were city, state, country, and shape.  All of theses filter displays were placed inside 
+The initial website only had date as the filter for searching the sightings.  The field preview date formate was displayed which prompted
+the date then click search.  This function was coded in the index.html page inside a div container using Bootstrap as a css style.  The challenge 
+portion of this project was to creat four additional filters.  These were city, state, country, and shape.  All of theses filter displays were placed inside 
 of list item tags.   The functions for these fields were created in the app.js file using javascript.
-
-
 
 
 ### Index.html
@@ -24,6 +22,7 @@ of list item tags.   The functions for these fields were created in the app.js f
 
 ### Update Filters
 ![](https://github.com/crashdean/UFOs/blob/main/static/images/Filter_update.png)
+
 
 
 
