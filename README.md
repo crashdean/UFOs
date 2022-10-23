@@ -12,9 +12,11 @@ The challnge of this project was to create further javascript functionality with
 The initial website only had date as the filter for searching the sightings.  The previewed date formate was displayed for the user to type
 the date and press search.  This function was coded in the index.html page inside a div container using Bootstrap as a css style. 
 
-  ![](https://github.com/crashdean/UFOs/static/images/Fiter_fields.png)
+
+
+![](https://github.com/crashdean/UFOs/static/images/Fiter_fields.png)
   
   
-  ![](https://github.com/crashdean/PyBer_Analysis/blob/main/Resources/Sum_by_city_type.png)
+  
 
 ##  Summary
