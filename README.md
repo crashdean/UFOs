@@ -23,7 +23,7 @@ of list item tags.   The functions for these fields were created in the app.js f
 
 
 ### app.js
-![](https://github.com/crashdean/UFOs/blob/main/static/images/Fiter_fields.png)
+![](https://github.com/crashdean/UFOs/blob/main/static/images/Filter_update.png)
 
 
 
