@@ -10,7 +10,7 @@ The challnge of this project was to create further javascript functionality with
 ##  Results
 
 The initial website only had date as the filter for searching the sightings.  The previewed date formate was displayed for the user to type
-the date and press search.  This function was coded in the index.html page inside a div container and 
+the date and press search.  This function was coded in the index.html page inside a div container using Bootstrap as a css style. 
 
 
 
