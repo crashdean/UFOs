@@ -19,18 +19,23 @@ of list item tags.   The functions for these fields were created in the app.js f
 ![](https://github.com/crashdean/UFOs/blob/main/static/images/Fiter_fields.png)
 
 
+This javascript was used to create the table for the data.js to be displayed.   The data rows were first appended the the table rows and then the 
+object values were appended to the row cells.  This created the table of data to display on the website.
 
-### Table Create
+### Create Table
 ![](https://github.com/crashdean/UFOs/blob/main/static/images/Table_create.png)
 
 
-
+The fields were used to filter the existing data and display with the data entered by the user.   Javascript functions were created to compare the
+entered data to the data in the table.   If the data was the same, it was used to filter that field.   If the data entered was not the same as the
+data in the table, then the field was not used as a data filter.
 
 ### Update Filters
 ![](https://github.com/crashdean/UFOs/blob/main/static/images/Filter_update.png)
 
 
-
+The entered field filter data was then used to search the data table and the response was the website would update the user with the data selected.
+This made it possible to scan the data for the sightings that were more relevent to the user.
 
 ### Filter Table Data
 ![](https://github.com/crashdean/UFOs/blob/main/static/images/filter_table.png)  
