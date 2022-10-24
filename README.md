@@ -14,6 +14,9 @@ the date then click search.  This function was coded in the index.html page insi
 portion of this project was to creat four additional filters.  These were city, state, country, and shape.  All of theses filter displays were placed inside 
 of list item tags.   The functions for these fields were created in the app.js file using javascript.
 
+### Website Search Fields
+![](https://github.com/crashdean/UFOs/blob/main/static/images/Website_search.png)
+
 
 ### Index.html
 ![](https://github.com/crashdean/UFOs/blob/main/static/images/Fiter_fields.png)
