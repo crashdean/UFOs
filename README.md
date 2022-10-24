@@ -44,6 +44,5 @@ This made it possible to scan the data for the sightings that were more relevent
 
 ##  Summary
 The wesite was a great success.  Some of the limitation of the site included limited data field input.   If the data was not in the correct formate or the 
-lower case of the data was not used, then the filter would not work.  For example, if the incorrect date formate was used, then the filter did not unterstand 
-the data.   If in the javascript, the code to change user inputs to the correct formate would make this a more function website.   Drop-down-boxes could
-be used for selecting correct dtae ranges or cities and states that were availible in the data table.
+lower case of the data was not used, then the filter would not work.  For example, if the uppercase was used in the spelling for city, then the filter did not 
+unterstand the data field.   If in the javascript, the code to change user inputs to the correct formate would make this a more function website.   Drop-down-boxes could be used for selecting correct dtae ranges or cities and states that were availible in the data table.
